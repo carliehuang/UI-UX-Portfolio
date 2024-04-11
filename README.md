@@ -1,14 +1,14 @@
 # Carlie Huang: UI/UX Portfolio
 ## Garden of Eve - March 2024
-In my proposal to a web development client, I made an interactive prototype on Figma of the redesigned website's new home page. The prototype includes interactive components and was designed with UI/UX principles in mind.
+In my proposal to a web development client, I made an interactive prototype on Figma of the redesigned website's new home page. The prototype includes interactive components and was designed with simplicity and accessibility in mind.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxUNNbCrM9FIc6IwGUTQtSa%2FGarden-of-Eve-Proposal%3Ftype%3Ddesign%26node-id%3D1-2%26t%3DDQs5N1QP7Vkz6xa3-1%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D14%253A315%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxUNNbCrM9FIc6IwGUTQtSa%2FGarden-of-Eve-Proposal%3Ftype%3Ddesign%26node-id%3D1-2%26t%3DDQs5N1QP7Vkz6xa3-1%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D14%253A315%26mode%3Ddesign" allowfullscreen></iframe>
 
-In addition to the prototype, I also made a pitch deck which included assets such as a proposed color palette as well as critiques of the current site.
+<p style="margin-top: 16px;"> In addition to the prototype, I also made a pitch deck which included assets such as a proposed color palette as well as critiques of the current site. In the example critique slide shown below, I explain how the sidebar not only contains extraneous content, it also obstructs the visual hierarchy by taking away from the main content on every page.</p>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/aa26a6b1-8895-45e1-b69f-7174208905a7" style="width: 400px;">
-  <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/9547eafa-c4eb-4d46-b6e3-190abf47e719" style="width: 400px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/aa26a6b1-8895-45e1-b69f-7174208905a7" style="width: 400px; margin: 10px;">
+  <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/9547eafa-c4eb-4d46-b6e3-190abf47e719" style="width: 400px; margin: 10px;">
 </div>
 
 ## Bridge - June 2023
@@ -18,6 +18,6 @@ My DGT HUM 110: User Experience and Design course was structured around a semest
 
 ![design system](https://github.com/carliehuang/DH110/assets/25852597/460b27e6-c8ed-416e-8df9-4b0b4f0c0ec7)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCKJykjVyrw7PclivaBDwiG%2FDH110-Assignment-7%253A-High-Fidelity-Interactive-Prototype%3Ftype%3Ddesign%26node-id%3D9-298%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A298" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCKJykjVyrw7PclivaBDwiG%2FDH110-Assignment-7%253A-High-Fidelity-Interactive-Prototype%3Ftype%3Ddesign%26node-id%3D9-298%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A298" allowfullscreen></iframe>
 
 ## Groundcycle - August 2022

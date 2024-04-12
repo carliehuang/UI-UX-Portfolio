@@ -19,7 +19,15 @@ My DGT HUM 110: User Experience and Design course was structured around a semest
 
 ![design system](https://github.com/carliehuang/DH110/assets/25852597/460b27e6-c8ed-416e-8df9-4b0b4f0c0ec7)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCKJykjVyrw7PclivaBDwiG%2FDH110-Assignment-7%253A-High-Fidelity-Interactive-Prototype%3Ftype%3Ddesign%26node-id%3D9-298%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A298" allowfullscreen></iframe>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <p>
+    <a href="https://www.figma.com/file/CKJykjVyrw7PclivaBDwiG/DH110-Assignment-7%3A-High-Fidelity-Interactive-Prototype?type=design&node-id=0%3A1&t=sqXkdIZiK6zp0bTs-1"><img src="https://github.com/carliehuang/DH110/assets/25852597/b72a36dc-512a-4df3-ae64-92bf6e2bc2cf" width="507px"></a>
+  </p>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400px" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCKJykjVyrw7PclivaBDwiG%2FDH110-Assignment-7%253A-High-Fidelity-Interactive-Prototype%3Ftype%3Ddesign%26node-id%3D9-298%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D9%253A298" allowfullscreen>  
+  </iframe>
+</div>
+  
+[![wireflow](https://github.com/carliehuang/DH110/assets/25852597/b72a36dc-512a-4df3-ae64-92bf6e2bc2cf)](https://www.figma.com/file/CKJykjVyrw7PclivaBDwiG/DH110-Assignment-7%3A-High-Fidelity-Interactive-Prototype?type=design&node-id=0%3A1&t=sqXkdIZiK6zp0bTs-1)
 
 ## Groundcycle - August 2022
 I had the incredible opportunity to build sustainability intiative [Groundcycle](https://groundcycle.org/)'s web app from the ground up. This included the front-facing website, user system, and delivery system still in use by thousands of users today. Responsive, cross-platform design was a priority in all pages because Groundcycle drives much of its traffic through social media, which users likely access on their phones. The site also utilizes the standard hierarchical structure of a modern website in order to promote a low learning curve for users.

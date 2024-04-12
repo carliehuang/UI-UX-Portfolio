@@ -12,7 +12,7 @@ In my proposal to a web development client, I made an interactive prototype on F
   <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/aa26a6b1-8895-45e1-b69f-7174208905a7" style="width: 400px;">
   <img src="https://github.com/carliehuang/UI-UX-Portfolio/assets/25852597/9547eafa-c4eb-4d46-b6e3-190abf47e719" style="width: 400px;">
 </div>
-<br><br>
+<br><br><br>
 
 ## Bridge - June 2023
 My DGT HUM 110: User Experience and Design course was structured around a semester-long design project in which we iterated on a design idea surrounding the theme of family. I came up with the idea of an instant-translation messaging app to bridge inter-generational language barriers— aptly named Bridge. I performed heuristic evaluations and usability testing on competitors, delved into UX storytelling to better understand the end users, and created wireframes and prototypes. Some of my work is shown below, and more detail on the entire project can be found [here](https://carliehuang.github.io/DH110/).

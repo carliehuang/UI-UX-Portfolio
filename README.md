@@ -2,7 +2,7 @@
 <br><br>
 
 ## HOMECOOKD - April 2024
-
+My ongoing client is a private chef looking to upgrade her website. The interactive prototype below is an in-progress redesign of the homepage.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600px" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFxGjsDF79sIajGFBUGWt0X%2FHOMECOOKD%3Ftype%3Ddesign%26node-id%3D1-2%26t%3D13vxjrhr8AXtS8rW-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 
 ## Garden of Eve - March 2024
